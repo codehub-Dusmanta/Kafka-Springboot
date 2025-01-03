@@ -6,7 +6,7 @@
 zookeeper-server-start.bat ..\..\config\zookeeper.properties
 
 
-8183247962
+
 
 2. start the broker
 
